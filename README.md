@@ -9,7 +9,8 @@ Description
 
 The Foodie Express webpage is a basic online food delivery website developed using HTML and Internal CSS. It contains a header, navigation menu, about section, clickable image, external and internal hyperlinks, food menu displayed in a table, ordered and unordered lists, description list, contact information, and a footer. Internal CSS is used to improve the appearance of the webpage by adding colors, fonts, borders, and alignment.
 
-# Pic
+
+Pic
 <img width="600" height="847" alt="image" src="https://github.com/user-attachments/assets/96a3fc59-ebbb-451e-a638-7326149da1ca" />
 
 
